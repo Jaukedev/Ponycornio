@@ -3,7 +3,7 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 /[Ll]ibrary/
-/[Tt]emp/
+Ponycornio/Temp
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
@@ -54,6 +54,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
 
 # Crashlytics generated file
 crashlytics-build.properties
