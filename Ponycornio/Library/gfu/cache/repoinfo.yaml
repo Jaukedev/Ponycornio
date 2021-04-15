@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-14T22:04:00.843-04:00
-  initializedAtString: 2021-04-14T22:04:00.843-04:00
+  lastUpdatedAtString: 2021-04-14T22:23:00.374-04:00
+  initializedAtString: 2021-04-14T22:23:00.374-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/Jaukedev/Ponycornio.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: primer-commit
-    tracking: origin/primer-commit
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: primer-commit
+    name: main
     remote:
       name: origin
       url: https://github.com/Jaukedev/Ponycornio.git
-    trackingBranch: primer-commit
+    trackingBranch: main
   currentConfigRemote:
     name: origin
     url: https://github.com/Jaukedev/Ponycornio.git
