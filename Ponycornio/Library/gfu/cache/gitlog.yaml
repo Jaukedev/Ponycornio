@@ -13,9 +13,213 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-04-14T19:53:49.804-04:00
-  initializedAtString: 2021-04-14T19:35:04.993-04:00
+  lastUpdatedAtString: 2021-04-14T22:04:03.914-04:00
+  initializedAtString: 2021-04-14T22:04:03.914-04:00
   log:
+  - commitID: b158353bbcc96b3a8062df2fccd9addcd01b614f
+    mergeA: 
+    mergeB: 
+    authorName: Jauke
+    authorEmail: jauke.dev@gmail.com
+    commitEmail: jauke.dev@gmail.com
+    commitName: Jauke
+    summary: ASDA
+    description: SDFSD
+    timeString: 2021-04-14T19:56:13.000-04:00
+    commitTimeString: 2021-04-14T19:56:13.000-04:00
+    changes:
+    - path: Ponycornio\Logs\Packages-Update.log
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\Packages\manifest.json
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\Packages\packages-lock.json
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\AudioManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\DynamicsManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\EditorSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\InputManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\PresetManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\ProjectSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\ProjectVersion.txt
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\QualitySettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\TagManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\TimeManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\TimelineSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\TimelineSettings.asset
+      projectPath: ProjectSettings\TimelineSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\VFXManager.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\VersionControlSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Ponycornio\ProjectSettings\XRSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 004a669bf2dd74d1c8e64360a0720d18926c4c90
+    mergeA: 
+    mergeB: 
+    authorName: Jauke
+    authorEmail: jauke.dev@gmail.com
+    commitEmail: jauke.dev@gmail.com
+    commitName: Jauke
+    summary: user settings
+    description: aASDASD
+    timeString: 2021-04-14T19:55:34.000-04:00
+    commitTimeString: 2021-04-14T19:55:34.000-04:00
+    changes:
+    - path: Ponycornio\UserSettings\EditorUserSettings.asset
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: a114ee8f46b1dab7a2c6fc6d4c31284d5ebbeefa
+    mergeA: 
+    mergeB: 
+    authorName: Jauke
+    authorEmail: jauke.dev@gmail.com
+    commitEmail: jauke.dev@gmail.com
+    commitName: Jauke
+    summary: asdasdas
+    description: asafasasdasd
+    timeString: 2021-04-14T19:55:01.000-04:00
+    commitTimeString: 2021-04-14T19:55:01.000-04:00
+    changes:
+    - path: Ponycornio\Library\gfu\cache\branches.yaml
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Ponycornio\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Ponycornio\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Ponycornio\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Proyectos\Unity\Ponycornio\Ponycornio\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b8128e74d0cd16526299914046db3d22cb8e5d7e
     mergeA: 
     mergeB: 
